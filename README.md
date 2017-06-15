@@ -7,11 +7,16 @@
 - Xcode 7.2+
 
 ##预览
-运行`DZRootViewController.xcodeproj` 来查看所有的 UI
+运行`DZRootViewController.xcodeproj` 来查看所有的 UI.<br><br>
+![](preview.png)
+
 
 ## 特色
 - 纯代码构建应用主框架，不使用storyboard
 - 支持tabitem扩展
+
+
+
 
 ## Classes
 DZRootViewController 继承UITabBarController，实例化四个基本Controller
